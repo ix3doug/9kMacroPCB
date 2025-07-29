@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "EXPORTS/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "9kMacroPCB.step",
